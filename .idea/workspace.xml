@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e69ffac-55ec-4bbd-b2af-9fc5eb8624ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Week05/lab_week5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +36,9 @@
     "Python.assignment1_101488862.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lab__week04",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/praka/Documents/COMP2152_Winter25",
+    "last_opened_file_path": "C:/Users/praka/Documents/comp2152",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +66,8 @@
       <workItem from="1737338645033" duration="554000" />
       <workItem from="1738600804072" duration="1582000" />
       <workItem from="1738949219602" duration="1070000" />
+      <workItem from="1739022941004" duration="11000" />
+      <workItem from="1739022969384" duration="14000" />
     </task>
     <servers />
   </component>
